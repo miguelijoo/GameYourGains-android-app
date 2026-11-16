@@ -6,10 +6,10 @@ h1{
     color: gold;
 }
 
-h2{
+h2, p{
     color: white;
 }
 
-p{
-    color:white;
+.tarjeta{
+    background-color: darkslateblue;
 }
