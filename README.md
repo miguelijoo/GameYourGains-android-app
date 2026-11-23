@@ -1,0 +1,1 @@
+Este repositorio es dedicado a una aplicación enfocada a la gestión de entrenamientos de calistenia y trail running pero hecho de manera que parezca un juego. Las diversas implementaciones que tiene la aplicación se ponen justo debajo de esta línea:
