@@ -13,5 +13,10 @@ h2, p{
 .tarjeta{
     background-color: darkslateblue;
     padding: 16px;
-    margin-bottom: 20px;
+}
+
+.pantalla{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
 }
